@@ -67,7 +67,7 @@ function draw() {
        text(
             "Press space to shoot.....",
             windowWidth / 3 - 500,
-            windowHeight / 2 + -200
+            windowHeight / 2 + -300
           );
 
         if (loki.isTouching(captainMarvel)) {
