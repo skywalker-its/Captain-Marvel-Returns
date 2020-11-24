@@ -65,7 +65,7 @@ function draw() {
         textSize(60);
         //textFont(font);
        text(
-            "PPress space to shoot.....",
+//             "PPress space to shoot.....",
             windowWidth / 3 - 500,
             windowHeight / 2 + -280
           );
